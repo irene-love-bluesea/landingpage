@@ -982,11 +982,11 @@ section,
 }
 
 .about .content h3 {
-  font-size: 16px;
+  font-size: 25px;
   font-weight: 500;
   line-height: 19px;
-  padding: 10px 20px;
-  background: color-mix(in srgb, var(--accent-color), transparent 95%);
+  padding: 20px 20px;
+  background: color-mix(in srgb, var(--accent-color), transparent 90%);
   color: var(--accent-color);
   border-radius: 7px;
   display: inline-block;
